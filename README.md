@@ -1,5 +1,7 @@
 # 1 Instalación de programas en Ubuntu
 
+![Cute Cat](./img/cute-cat.jpeg)
+
 ## 1.1 `apt`
 
 ### 1.1.1 Instalando `git` con `apt`
